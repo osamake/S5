@@ -1,0 +1,6 @@
+﻿token= NjQxMTY1MDEzNTI4MDg0NDkx.XcHkAg.wNKzrd_dqu-zaslg_L3-L5X9UjE
+owner= 542115235826237460
+prefix= S
+game= TYPES
+stayinchannel=true اذا تريده ميطلع من الروم من تخلص الاغنية لاتغيره
+songinstatus=false اذا تريده يكتب بلبروفايل شنو مشتغل حطه true
