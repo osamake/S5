@@ -1,4 +1,4 @@
-﻿token= NjQxMTY1MDEzNTI4MDg0NDkx.XcHkAg.wNKzrd_dqu-zaslg_L3-L5X9UjE
+﻿token= BOT-TOKEN-REMOVED
 owner= 542115235826237460
 prefix= S
 game= TYPES
